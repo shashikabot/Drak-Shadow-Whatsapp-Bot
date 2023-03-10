@@ -161,5 +161,6 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94740203415)
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Devolop+by+Mr.+Hansamala&font=red%22Code&center=true&width=380&height=50">
 
 ## 👽Thanks To
