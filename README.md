@@ -95,9 +95,7 @@ Drak Shadow bot ගොඩනැගීමට ඔබට ජංගම දුරක�
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
-> [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
-
-> [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+Drak Shadow (https://i.ibb.co/z75q5tn/maxresdefault.jpg)
 
 # 🚀Drak Shadow පහසුකම් ලැයිස්තුව
 
