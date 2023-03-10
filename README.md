@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://i.ibb.co/z75q5tn/maxresdefault.jpg)
+![logo](https://i.ibb.co/JsVxH4z/maxresdefault-removebg-preview.png)
 <h1 align="center"><b> 🧞‍♂️〽️ 𝘿𝙍𝘼𝙆 𝙎𝙃𝘼𝘿𝙊𝙒 𝗕𝗼𝘁 𝗠𝗱💃〽️ (ᴠɪᴘ) </b></h1>
 
 </a>
