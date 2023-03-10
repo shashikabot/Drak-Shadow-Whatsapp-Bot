@@ -125,7 +125,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Mr.Hansamala](https://i.ibb.co/JsVxH4z/maxresdefault-removebg-preview.png)
+[![Mr.Hansamala]
 
  ***Mr.Hansamala(Drak Shadow😈)***
 <a href="https://Wa.me/+94740203415">
