@@ -7,7 +7,7 @@
 
 </a>
 
-![logo](https://i.ibb.co/QDv3tFW/giftovideo-20230310-214558.gif)
+![logo](https://i.ibb.co/z75q5tn/maxresdefault.jpg)
 <h1 align="center"><b> 🧞‍♂️〽️ 𝘿𝙍𝘼𝙆 𝙎𝙃𝘼𝘿𝙊𝙒 𝗕𝗼𝘁 𝗠𝗱💃〽️ (ᴠɪᴘ) </b></h1>
 
 </a>
@@ -94,8 +94,6 @@ Drak Shadow bot ගොඩනැගීමට ඔබට ජංගම දුරක�
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
-
-Drak Shadow (https://i.ibb.co/z75q5tn/maxresdefault.jpg)
 
 # 🚀Drak Shadow පහසුකම් ලැයිස්තුව
 
