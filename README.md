@@ -134,7 +134,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Mr.Hansamala](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
  ***Mr.Hansamala(Drak Shadow😈)***
 <a href="https://Wa.me/+94740203415">
@@ -143,7 +143,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
   </a>
 
 <a href="https://Wa.me/+94740203415">
-    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+    <img src="https://i.ibb.co/JsVxH4z/maxresdefault-removebg-preview.png">
   
   </a>
 
