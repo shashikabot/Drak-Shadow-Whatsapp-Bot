@@ -1,12 +1,3 @@
-#### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-    
-</a>          
-
-
-</a>
-
 ![logo](https://i.ibb.co/JsVxH4z/maxresdefault-removebg-preview.png)
 <h1 align="center"><b> 🧞‍♂️〽️ 𝘿𝙍𝘼𝙆 𝙎𝙃𝘼𝘿𝙊𝙒 𝗕𝗼𝘁 𝗠𝗱💃〽️ (ᴠɪᴘ) </b></h1>
 
