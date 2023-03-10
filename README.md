@@ -125,11 +125,11 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Mr.Hansamala](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+[![Mr.Hansamala](https://i.ibb.co/JsVxH4z/maxresdefault-removebg-preview.png)
 
  ***Mr.Hansamala(Drak Shadow😈)***
 <a href="https://Wa.me/+94740203415">
-    <img src="https://i.ibb.co/z75q5tn/maxresdefault.jpg">
+    
   
   </a>
 
