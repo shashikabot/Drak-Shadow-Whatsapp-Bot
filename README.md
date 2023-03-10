@@ -129,7 +129,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
  ***Mr.Hansamala(Drak Shadow😈)***
 <a href="https://Wa.me/+94740203415">
-    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
+    <img src="https://i.ibb.co/z75q5tn/maxresdefault.jpg">
   
   </a>
 
