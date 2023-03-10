@@ -125,7 +125,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ## 👨‍💻Developer
 
-[![Mr.Hansamala]
+  ***##DRAK SHADOW WHATSAPP BOT***
 
  ***Mr.Hansamala(Drak Shadow😈)***
 <a href="https://Wa.me/+94740203415">
